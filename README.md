@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BaghelMayank
-- 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning C#, Python, Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Game Developer
+- 🌱 I’m currently learning C#
 
 <!---
 BaghelMayank/BaghelMayank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
